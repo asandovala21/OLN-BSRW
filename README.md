@@ -1,8 +1,7 @@
 OLN-BSRW
 ========
 
-Calcula los pesos de replicación (bootstrap) apropiados para las encuestas
-CASEN, ENE y ESI.
+Pesos de replicación (bootstrap) para CASEN, ENE y ESI
 
 Intrucciones de Uso
 -------------------
