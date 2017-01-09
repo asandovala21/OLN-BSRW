@@ -1,8 +1,8 @@
 OLN-BSRW
 ========
 
-Replica los pesos de replicación utilizados por el OLN al implementar el
-bootstrap de Rao y Wu (1988).
+Calcula los pesos de replicación (bootstrap) apropiados para las encuestas
+CASEN, ENE y ESI.
 
 Intrucciones de Uso
 -------------------
