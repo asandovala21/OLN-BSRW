@@ -8,17 +8,16 @@ Intrucciones de uso
 -------------------
 
 1. Visite https://github.com/igutierrezm.
-2. Clone el repo OLN-BSRW. Guárdelo en $proyecto.
-3. Clone el repo OLN-Tools. Guárdelo en $OLNTools.
-4. Fije el directorio principal de sus datos en $datos.
-5. Abra $proyecto/main.do. Declare $proyecto, $OLNTools y $datos como globals.
-
-El mismo archivo $proyecto/main.do contiene un ejemplo.
+2. Clone el repo OLN-BSRW. Guárdelo en ``$proyecto``.
+3. Clone el repo OLN-Tools. Guárdelo en ``$OLNTools``.
+4. Fije el directorio principal de sus datos en ``$datos``.
+5. Abra ``$proyecto/main.do``. Edite el valor por defecto de los globals.
+6. Ejecute ``$proyecto/main.do``.
 
 Importante
 ----------
 
-OLN-BSRW asume que las BBDD dentro de $datos se organizan como sigue:
+OLN-BSRW asume que las BBDD dentro de $datos se organizan como sigue::
 
   $datos/
     CASEN/CASEN <año>.dta
