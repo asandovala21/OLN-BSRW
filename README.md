@@ -24,7 +24,7 @@ OLN-BSRW asume que las BBDD dentro de ``$datos`` se organizan como sigue:
 $datos/
   CASEN/CASEN <año>.dta
   ENE/ENE <año> <mes>.dta
-  ESI/ESI <año>.dta
+  ESI/ESI <año> Personas.dta
 ```
 en donde:
 - ``<año>`` representa a un año genérico en formato %4d (por ejemplo, 2015).
