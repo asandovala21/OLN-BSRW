@@ -25,5 +25,6 @@ OLN-BSRW asume que las BBDD dentro de $datos se organizan como sigue::
     ESI/ESI <año>.dta
 
 en donde:
- - <año> representa a un año genérico (e.g. 2015 [tomar nota del formato]).
- - <mes> representa a un mes genérico (e.g. 01 [tomar nota del formato]).
+
+ - ``<año>`` representa a un año genérico (e.g. 2015 [tomar nota del formato]).
+ - ``<mes>`` representa a un mes genérico (e.g. 01 [tomar nota del formato]).
